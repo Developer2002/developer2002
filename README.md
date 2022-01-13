@@ -2,7 +2,7 @@
 
 🚀 Aluno da Rocketseat <br />
 💻 Estudando flutter <br />
-✔️ Estudando typescript
+💻 Estudando typescript
 
 
 ### Conhecimento
