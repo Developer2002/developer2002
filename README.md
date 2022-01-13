@@ -1,4 +1,4 @@
-## Bem vindo ao meu Github
+## Bem-vindo ao meu Github
 
 🚀 Aluno da Rocketseat <br />
 
